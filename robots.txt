@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hamidreza.github.io/sitemap.xml
+Sitemap: https://hamidrezay81.github.io//sitemap.xml
